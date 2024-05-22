@@ -9,7 +9,7 @@ The Bakerlab landing page is a vibrant and inviting online portal for our belove
  - JavaScript
 
 ## Preview
-- [Bakerlab landing preview](https://khvashchenkodenys.github.io/namu-landing/)
+- [Bakerlab landing preview](https://khvashchenkodenys.github.io/bakery-landing/)
 
 ## Mockup
   - [Bakerlab mockup](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1)
