@@ -1,12 +1,13 @@
 # Bakerlab Landing Page
 
-## Brief Description
-The Bakerlab landing page is a vibrant and inviting online portal for our beloved bakery. It showcases our delectable range of baked goods, provides information on special offers and seasonal treats, and offers visitors essential details about our bakery, including our story, locations, and contact information.
+## Project Overview
+Bakerlab is a refined and professional landing page crafted for artisanal bakeries, showcasing a selection of cakes, cookies, and croissants. This front-end project emphasizes a visually appealing and user-friendly design, ensuring easy navigation and product discovery.
+
+Utilizing modern web technologies, Bakerlab offers a responsive and accessible browsing experience across various devices. It effectively demonstrates how bakery owners can present their products elegantly and engagingly.
 
 ## Technologies Used
  - HTML5
  - CSS3 (SCSS)
- - JavaScript
 
 ## Preview
 - [Bakerlab landing preview](https://khvashchenkodenys.github.io/bakery-landing/)
