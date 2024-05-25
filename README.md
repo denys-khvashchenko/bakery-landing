@@ -36,3 +36,11 @@ To get started with the project locally, follow these steps:
 
 **Start the development server:**
     `npm start`
+
+### Switching Node.js Version to 14:
+
+  **Install Node.js version 14:**
+    `nvm install 14`
+
+  **Use Node.js version 14:**
+    `nvm use 14`
