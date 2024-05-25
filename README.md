@@ -1,7 +1,7 @@
 # Bakerlab Landing Page
 
 ## Project Overview
-Bakerlab is a refined and professional landing page crafted for artisanal bakeries, showcasing a selection of cakes, cookies, and croissants. This front-end project emphasizes a visually appealing and user-friendly design, ensuring easy navigation and product discovery.
+Bakerlab is a refined and professional landing page crafted for artisanal bakeries, showcasing a selection of cakes, cookies, and croissants. This front-end project emphasizes a visually appealing and user-friendly design, ensuring easy navigation.
 
 Utilizing modern web technologies, Bakerlab offers a responsive and accessible browsing experience across various devices. It effectively demonstrates how bakery owners can present their products elegantly and engagingly.
 
