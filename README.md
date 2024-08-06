@@ -10,7 +10,7 @@ Utilizing modern web technologies, Bakerlab offers a responsive and accessible b
  - CSS3 (SCSS)
 
 ## Preview
-- [Bakerlab landing preview](https://khvashchenkodenys.github.io/bakery-landing/)
+- [Bakerlab landing preview](https://denys-khvashchenko.github.io/bakery-landing/)
 
 ## Mockup
   - [Bakerlab mockup](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-FE-students?node-id=0%3A1)
